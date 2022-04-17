@@ -1,4 +1,4 @@
-# DS501-Data-Science
+# Machine Learning: Classification 
 Data Science Proyects
 
 Overview of Data Science, covering a broad selection of key challenges in and methodologies for working with big data. 
